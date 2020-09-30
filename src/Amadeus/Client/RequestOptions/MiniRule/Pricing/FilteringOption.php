@@ -21,7 +21,7 @@
  */
 
 
-namespace Amadeus\Client\RequestOptions\MiniRule;
+namespace Amadeus\Client\RequestOptions\MiniRule\Pricing;
 
 use Amadeus\Client\LoadParamsFromArray;
 

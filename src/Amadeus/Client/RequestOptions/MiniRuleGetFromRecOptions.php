@@ -37,12 +37,7 @@ class MiniRuleGetFromRecOptions extends Base
      */
     public $language = null;
     /**
-     * @var MiniRule\Pricing
+     * @var MiniRule\Pricing[]
      */
-    public $pricing = null;
-
-    /**
-     * @var MiniRule\FilteringOption[]
-     */
-    public $filteringOptions = [];
+    public $pricings = [];
 }
