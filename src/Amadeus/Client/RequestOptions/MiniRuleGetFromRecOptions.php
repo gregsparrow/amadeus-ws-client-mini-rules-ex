@@ -35,9 +35,9 @@ class MiniRuleGetFromRecOptions extends Base
     /**
      * @var null|Language
      */
-    public $language = null;
+    public $language;
     /**
      * @var MiniRule\Pricing[]
      */
-    public $pricings = [];
+    public $pricings;
 }
